@@ -85,7 +85,7 @@ export default {
           name: '陈冠旭',
           height:  '182',
           metabolism:'1514',
-          bloodType: '不知道',
+          bloodType: 'A',
           weight:'58',
           foodTime:'不规律',
           sleepTime:'12小时/天',
