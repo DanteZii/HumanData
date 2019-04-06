@@ -40,7 +40,11 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-  ],
+    '@nuxtjs/pwa',
+  ], 
+  icon: {
+    // Icon options
+  },
 
   /*
   ** Build configuration
