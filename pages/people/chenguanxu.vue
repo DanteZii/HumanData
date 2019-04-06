@@ -8,7 +8,7 @@
       <div class="wrapper2">
         <div class="radius">
             <div class="radius1">
-                 <img :src="require('~/assets/people/ChenGuanXu.png')"  alt="" class="radius2">
+                 <img :src="require('~/assets/people/ChenXinYu.png')"  alt="" class="radius2">
             </div>
         </div>
       </div>
@@ -78,37 +78,29 @@
 </template>
 
 <script>
-
 export default {
   data() {
     return {
       todos: [
         { 
-          name: '陈冠旭',
-          height:  '182',
-          metabolism:'1514',
-          bloodType: 'A',
-          constellation:'白羊',
-          weight:'58',
-          foodTime:'不规律',
-          sleepTime:'12小时/天',
-          sleepStart:'早中晚不一定',
-          upStrat:'早中晚不一定',
-          sf:'游泳|足球|长跑',
-          sd:'无',
+          name: '陈欣宇',
+          height:  '172',
+          metabolism:'1273',
+          bloodType: '不知道',
+          constellation:'处女座',
+          weight:'55',
+          foodTime:'不确定',
+          sleepTime:'8小时/天',
+          sleepStart:'凌晨1点',
+          upStrat:'9:00',
+          sf:'无',
+          sd:'初二开始抽烟',
           gd:'无',
-          pc:'无神 健忘 没胃口',
-          aims:'健康 体态'
+          pc:'死宅 中等偏下',
+          aims:'减脂 增肌 屁股'
           },
       ]
     }
-  },
-  components: {
-    Logo
   }
 }
 </script>
-
-<style>
-
-</style>
