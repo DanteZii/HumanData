@@ -8,7 +8,7 @@
       <div class="wrapper2">
         <div class="radius">
             <div class="radius1">
-                 <img :src="require('~/assets/people/chenguanxu.png')"  alt="" class="radius2">
+                 <img :src="require('~/assets/people/ChenGuanXu.png')"  alt="" class="radius2">
             </div>
         </div>
       </div>
@@ -78,7 +78,6 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
 
 export default {
   data() {
