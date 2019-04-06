@@ -33,6 +33,10 @@
               <div class="informationli3">{{todo.bloodType}}</div>
           </li>
           <li class="information2">
+              <div class="informationli2">星座</div>
+              <div class="informationli3">{{todo.constellation}}</div>
+          </li>
+          <li class="information2">
               <div class="informationli2">三餐时间</div>
               <div class="informationli3">{{todo.foodTime}}</div>
           </li>
@@ -86,6 +90,7 @@ export default {
           height:  '182',
           metabolism:'1514',
           bloodType: 'A',
+          constellation:'白羊',
           weight:'58',
           foodTime:'不规律',
           sleepTime:'12小时/天',
