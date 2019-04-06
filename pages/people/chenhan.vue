@@ -8,8 +8,7 @@
       <div class="wrapper2">
         <div class="radius">
             <div class="radius1">
-                <div class="radius2">
-                 </div>
+                 <div  class="radius2"> </div>
             </div>
         </div>
       </div>
