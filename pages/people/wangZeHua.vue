@@ -1,4 +1,3 @@
-
 <template>
   <section class="container">
     <div class="wraper" v-for="todo in todos"
@@ -84,22 +83,22 @@ export default {
     return {
       todos: [
         { 
-          name: '陈晗',
-          img: '/people/chenHan.png',
-          height:  '176',
-          metabolism:'1559',
-          bloodType: '不知道',
-          constellation:'双子座',
-          weight:'66',
-          foodTime:'8:30 12:00 21:00',
-          sleepTime:'8小时/天',
-          sleepStart:'凌晨1点',
-          upStrat:'8:00',
-          sf:'乒乓球|田径',
-          sd:'无',
-          gd:'高血压',
-          pc:'良好',
-          aims:'Pro'
+          name: '王泽华',
+          img: '/people/wangZeHua.png',
+          height:  '身高',
+          metabolism:'代谢',
+          bloodType: '血型',
+          constellation:'星座',
+          weight:'体重',
+          foodTime:'三餐时间',
+          sleepTime:'睡眠时长',
+          sleepStart:'入睡时间',
+          upStrat:'起床时间',
+          sf:'运动基础',
+          sd:'抽烟酗酒史',
+          gd:'家族遗传',
+          pc:'身体状况',
+          aims:'目标'
           },
       ]
     }

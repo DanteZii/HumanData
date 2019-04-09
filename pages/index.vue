@@ -30,31 +30,48 @@ export default {
       items: [
         { name: '陈冠旭',
           img: '/people/ChenGuanXu.png',
-          link: '/people/chenguanxu'
+          link: '/people/chenGuanXu'
         },
         { name: '陈晗',
-          img: '/people/ChenGuanXu.png',
-          link: '/people/chenhan'
+          img: '/people/ChenHan.png',
+          link: '/people/chenHan'
         },
         { name: '郭慧琳',
-          img: '/people/ChenXinYu.png'
+          img: '/people/guoHuiLin.png',
+          link: '/people/guoHuiLin'
           },
-        { name: '蛇皮',
-          img: '/people/WangYong.png'},
+        { name: '王勇',
+          img: '/people/WangYong.png',
+          link: '/people/wangYong'
+          },
         { name: '王泽华',
-          img: '/people/WangZeHua.png'},
+          img: '/people/WangZeHua.png',
+          link: '/people/wangZeHua'
+          },
         { name: '万年',
-          img: '/people/WanNian.png'},
+          img: '/people/WanNian.png',
+          link: '/people/wanNian'
+          },
         { name: '姜敬伟',
-          img: '/people/JiangJIngWei.png'},
+          img: '/people/JiangJIngWei.png',
+          link: '/people/jiangJingWei'
+          },
         { name: '陈欣宇',
           img: '/people/ChenXinYu.png',
-          link: '/people/chenLiangLiang'
+          link: '/people/chenXinYu'
         },
-        { name: '小田',
-          img: '/people/TianYingZhu.png'},
+        { name: '田颖竹',
+          img: '/people/TianYingZhu.png',
+          link: '/people/tianYingZhu'
+          },
         { name: '张子木',
-          img: '/people/ZhangZiMu.png'}
+          img: '/people/ZhangZiMu.png',
+          link: '/people/zhangZimu'
+          },
+        { name: '张子涵',
+          img: '/people/zhangZiHan.png',
+          link: '/people/zhangZiHan'
+          }
 
       ]
     }
